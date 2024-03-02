@@ -86,6 +86,7 @@ ol {
 }
 
 .portfolio-list {
+  background-color: #ffffff;
 }
 
 .portfolio-item-title {
@@ -147,6 +148,7 @@ ol {
 }
 
 .footer-logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
